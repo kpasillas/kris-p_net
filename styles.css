@@ -79,7 +79,7 @@ li {
 .skillsItem {
     margin: 10px 0px 0px 0px;
     padding: 0px;
-    text-align: left;
+    text-align: center;
 }
 a:link, a:visited {
     font-family: "Helvetica Neue", Arial, sans-serif;
