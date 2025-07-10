@@ -32,7 +32,7 @@ body {
     margin: 77px auto 0px auto;
     padding: 0px;
     width: 800px;
-    }
+}
 .categoryTitle {
     margin: 20px auto 0px auto;
     padding: 0px;
@@ -43,7 +43,6 @@ body {
     padding: 0px;
 }
 .subcategory {
-    /* margin: 2px auto 0px auto; */
     margin: 10px auto 0px auto;
     padding: 0px;
 }
